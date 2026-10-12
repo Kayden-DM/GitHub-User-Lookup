@@ -1,3 +1,5 @@
+This README is made with AI
+
 🐙 Python GitHub Profile Finder
 A simple command-line tool built with Python that looks up information about any GitHub user. It uses the free GitHub REST API to fetch details like username, name, bio, location, follower count, public repositories, and account creation date. It's a great beginner-to-intermediate project for learning about APIs, HTTP requests, JSON parsing, and error handling in Python.
 
